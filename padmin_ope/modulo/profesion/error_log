@@ -1,0 +1,6 @@
+[07-Apr-2021 17:12:39 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[07-Apr-2021 17:12:39 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[07-Apr-2021 17:12:39 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[07-Apr-2021 17:12:39 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[07-Apr-2021 17:12:39 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[07-Apr-2021 17:12:40 America/Santiago] PHP Notice:  Undefined variable: acciones in /home/ppsavcl/public_html/padmin_ope/modulo/profesion/select.php on line 251

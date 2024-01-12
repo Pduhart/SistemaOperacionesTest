@@ -1,0 +1,79 @@
+[26-Nov-2019 16:13:02 America/Santiago] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/ppsavcl/public_html/padmin_ope/config.php on line 3
+[26-Nov-2019 16:13:02 America/Santiago] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/ppsavcl/public_html/padmin_ope/config.php on line 3
+[26-Nov-2019 16:13:02 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[26-Nov-2019 16:13:02 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[26-Nov-2019 16:13:02 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[26-Nov-2019 16:13:02 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[26-Nov-2019 16:13:02 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[26-Nov-2019 16:13:07 America/Santiago] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/ppsavcl/public_html/padmin_ope/config.php on line 3
+[26-Nov-2019 16:13:37 America/Santiago] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/ppsavcl/public_html/padmin_ope/config.php on line 3
+[26-Nov-2019 16:13:39 America/Santiago] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/ppsavcl/public_html/padmin_ope/config.php on line 3
+[26-Nov-2019 16:13:39 America/Santiago] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/ppsavcl/public_html/padmin_ope/config.php on line 3
+[26-Nov-2019 16:13:39 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[26-Nov-2019 16:13:39 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[26-Nov-2019 16:13:39 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[26-Nov-2019 16:13:39 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[26-Nov-2019 16:13:39 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[26-Nov-2019 16:13:41 America/Santiago] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/ppsavcl/public_html/padmin_ope/config.php on line 3
+[12-Dec-2019 18:26:48 America/Santiago] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/ppsavcl/public_html/padmin_ope/config.php on line 3
+[12-Dec-2019 18:26:48 America/Santiago] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/ppsavcl/public_html/padmin_ope/config.php on line 3
+[12-Dec-2019 18:26:48 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[12-Dec-2019 18:26:48 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[12-Dec-2019 18:26:48 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[12-Dec-2019 18:26:48 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[12-Dec-2019 18:26:48 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[17-Jan-2020 16:29:35 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[17-Jan-2020 16:29:35 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[17-Jan-2020 16:29:35 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[17-Jan-2020 16:29:35 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[17-Jan-2020 16:29:35 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[15-Jul-2020 16:09:05 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[15-Jul-2020 16:09:05 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[15-Jul-2020 16:09:05 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[15-Jul-2020 16:09:05 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[15-Jul-2020 16:09:05 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[16-Dec-2020 12:23:46 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[16-Dec-2020 12:23:46 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[16-Dec-2020 12:23:46 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[16-Dec-2020 12:23:46 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[16-Dec-2020 12:23:46 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[28-Dec-2020 12:41:05 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[28-Dec-2020 12:41:05 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[28-Dec-2020 12:41:05 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[28-Dec-2020 12:41:05 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[28-Dec-2020 12:41:05 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[21-Jan-2021 19:42:56 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[21-Jan-2021 19:42:56 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[21-Jan-2021 19:42:56 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[21-Jan-2021 19:42:56 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[21-Jan-2021 19:42:56 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[21-Jan-2021 19:43:43 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[21-Jan-2021 19:43:43 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[21-Jan-2021 19:43:43 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[21-Jan-2021 19:43:43 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[21-Jan-2021 19:43:43 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[21-Jan-2021 19:45:49 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[21-Jan-2021 19:45:49 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[21-Jan-2021 19:45:49 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[21-Jan-2021 19:45:49 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[21-Jan-2021 19:45:49 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[27-Jan-2021 09:25:54 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[27-Jan-2021 09:25:54 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[27-Jan-2021 09:25:54 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[27-Jan-2021 09:25:54 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[27-Jan-2021 09:25:54 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[27-Jan-2021 09:26:08 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[27-Jan-2021 09:26:08 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[27-Jan-2021 09:26:08 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[27-Jan-2021 09:26:08 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[27-Jan-2021 09:26:08 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[19-Feb-2021 10:23:20 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[19-Feb-2021 10:23:20 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[19-Feb-2021 10:23:20 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[19-Feb-2021 10:23:20 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[19-Feb-2021 10:23:20 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[19-Feb-2021 10:23:33 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[19-Feb-2021 10:23:33 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[19-Feb-2021 10:23:33 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[19-Feb-2021 10:23:33 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[19-Feb-2021 10:23:33 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15

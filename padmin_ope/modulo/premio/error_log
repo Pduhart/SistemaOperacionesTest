@@ -1,0 +1,66 @@
+[28-Dec-2020 12:45:42 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[28-Dec-2020 12:45:42 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[28-Dec-2020 12:45:42 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[28-Dec-2020 12:45:42 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[28-Dec-2020 12:45:42 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[28-Dec-2020 12:45:45 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[28-Dec-2020 12:45:45 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[28-Dec-2020 12:45:45 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[28-Dec-2020 12:45:45 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[28-Dec-2020 12:45:45 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[28-Dec-2020 12:45:45 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 106
+[28-Dec-2020 12:45:45 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 107
+[28-Dec-2020 12:45:45 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 108
+[28-Dec-2020 12:50:51 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[28-Dec-2020 12:50:51 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[28-Dec-2020 12:50:51 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[28-Dec-2020 12:50:51 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[28-Dec-2020 12:50:51 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[28-Dec-2020 12:50:51 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 106
+[28-Dec-2020 12:50:51 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 107
+[28-Dec-2020 12:50:51 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 108
+[04-Jan-2021 13:27:54 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[04-Jan-2021 13:27:54 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[04-Jan-2021 13:27:54 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[04-Jan-2021 13:27:54 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[04-Jan-2021 13:27:54 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[04-Jan-2021 13:27:54 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 106
+[04-Jan-2021 13:27:54 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 107
+[04-Jan-2021 13:27:54 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 108
+[04-Jan-2021 13:28:14 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[04-Jan-2021 13:28:14 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[04-Jan-2021 13:28:14 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[04-Jan-2021 13:28:14 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[04-Jan-2021 13:28:14 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[04-Jan-2021 13:28:14 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 106
+[04-Jan-2021 13:28:14 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 107
+[04-Jan-2021 13:28:14 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 108
+[27-Jan-2021 17:50:49 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[27-Jan-2021 17:50:49 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[27-Jan-2021 17:50:49 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[27-Jan-2021 17:50:49 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[27-Jan-2021 17:50:49 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[27-Jan-2021 17:50:50 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 106
+[27-Jan-2021 17:50:50 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 107
+[27-Jan-2021 17:50:50 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 108
+[28-Jan-2021 08:03:02 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[28-Jan-2021 08:03:02 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[28-Jan-2021 08:03:02 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[28-Jan-2021 08:03:02 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[28-Jan-2021 08:03:02 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[28-Jan-2021 08:03:02 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 106
+[28-Jan-2021 08:03:02 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 107
+[28-Jan-2021 08:03:02 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 108
+[16-Mar-2021 16:13:58 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[16-Mar-2021 16:13:58 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[16-Mar-2021 16:13:58 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[16-Mar-2021 16:13:58 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[16-Mar-2021 16:13:58 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[16-Mar-2021 16:18:50 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[16-Mar-2021 16:18:50 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[16-Mar-2021 16:18:50 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[16-Mar-2021 16:18:50 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[16-Mar-2021 16:18:50 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[16-Mar-2021 16:18:51 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 106
+[16-Mar-2021 16:18:51 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 107
+[16-Mar-2021 16:18:51 America/Santiago] PHP Notice:  Undefined variable: id_cot in /home/ppsavcl/public_html/padmin_ope/modulo/premio/form_select.php on line 108

@@ -1,0 +1,1090 @@
+[10-Sep-2020 11:25:53 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[10-Sep-2020 11:25:53 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[10-Sep-2020 11:25:53 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[10-Sep-2020 11:25:53 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[10-Sep-2020 11:25:53 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[10-Sep-2020 11:25:54 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[10-Sep-2020 11:25:54 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[10-Sep-2020 11:25:54 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[11-Sep-2020 18:43:42 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[11-Sep-2020 18:43:42 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[11-Sep-2020 18:43:42 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[11-Sep-2020 18:43:42 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[11-Sep-2020 18:43:42 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[11-Sep-2020 18:43:43 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[11-Sep-2020 18:43:43 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[11-Sep-2020 18:43:43 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[14-Sep-2020 18:20:49 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[14-Sep-2020 18:20:49 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[14-Sep-2020 18:20:49 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[14-Sep-2020 18:20:49 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[14-Sep-2020 18:20:49 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[14-Sep-2020 18:20:49 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[14-Sep-2020 18:20:49 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[14-Sep-2020 18:20:49 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[14-Sep-2020 18:42:25 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[14-Sep-2020 18:42:25 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[14-Sep-2020 18:42:25 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[14-Sep-2020 18:42:25 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[14-Sep-2020 18:42:25 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[14-Sep-2020 18:42:26 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[14-Sep-2020 18:42:26 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[14-Sep-2020 18:42:26 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[14-Sep-2020 18:42:29 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[14-Sep-2020 18:42:29 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[14-Sep-2020 18:42:29 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[14-Sep-2020 18:42:29 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[14-Sep-2020 18:42:29 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[14-Sep-2020 18:42:29 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[14-Sep-2020 18:42:29 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[14-Sep-2020 18:42:29 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[14-Sep-2020 18:43:56 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[14-Sep-2020 18:43:56 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[14-Sep-2020 18:43:56 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[14-Sep-2020 18:43:56 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[14-Sep-2020 18:43:56 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[14-Sep-2020 18:43:56 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[14-Sep-2020 18:43:56 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[14-Sep-2020 18:43:56 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[16-Sep-2020 09:55:20 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[16-Sep-2020 09:55:20 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[16-Sep-2020 09:55:20 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[16-Sep-2020 09:55:20 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[16-Sep-2020 09:55:20 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[16-Sep-2020 09:55:20 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[16-Sep-2020 09:55:20 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[16-Sep-2020 09:55:20 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[16-Sep-2020 10:57:43 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[16-Sep-2020 10:57:43 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[16-Sep-2020 10:57:43 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[16-Sep-2020 10:57:43 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[16-Sep-2020 10:57:43 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[16-Sep-2020 10:57:44 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[16-Sep-2020 10:57:44 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[16-Sep-2020 10:57:44 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[16-Sep-2020 17:49:00 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[16-Sep-2020 17:49:00 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[16-Sep-2020 17:49:00 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[16-Sep-2020 17:49:00 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[16-Sep-2020 17:49:00 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[16-Sep-2020 17:49:02 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[16-Sep-2020 17:49:02 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[16-Sep-2020 17:49:02 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[22-Sep-2020 12:29:26 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[22-Sep-2020 12:29:26 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[22-Sep-2020 12:29:26 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[22-Sep-2020 12:29:26 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[22-Sep-2020 12:29:26 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[22-Sep-2020 12:29:26 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[22-Sep-2020 12:29:26 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[22-Sep-2020 12:29:26 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[24-Sep-2020 17:36:30 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[24-Sep-2020 17:36:30 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[24-Sep-2020 17:36:30 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[24-Sep-2020 17:36:30 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[24-Sep-2020 17:36:30 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[24-Sep-2020 17:36:32 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[24-Sep-2020 17:36:32 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[24-Sep-2020 17:36:32 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[28-Sep-2020 10:18:53 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[28-Sep-2020 10:18:53 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[28-Sep-2020 10:18:53 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[28-Sep-2020 10:18:53 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[28-Sep-2020 10:18:53 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[28-Sep-2020 10:18:53 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[28-Sep-2020 10:18:53 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[28-Sep-2020 10:18:53 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[30-Sep-2020 16:45:56 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[30-Sep-2020 16:45:56 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[30-Sep-2020 16:45:56 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[30-Sep-2020 16:45:56 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[30-Sep-2020 16:45:56 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[30-Sep-2020 16:45:57 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[30-Sep-2020 16:45:57 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[30-Sep-2020 16:45:57 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[02-Oct-2020 18:13:46 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[02-Oct-2020 18:13:46 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[02-Oct-2020 18:13:46 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[02-Oct-2020 18:13:46 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[02-Oct-2020 18:13:46 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[02-Oct-2020 18:13:47 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[02-Oct-2020 18:13:47 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[02-Oct-2020 18:13:47 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[05-Oct-2020 09:38:31 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[05-Oct-2020 09:38:31 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[05-Oct-2020 09:38:31 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[05-Oct-2020 09:38:31 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[05-Oct-2020 09:38:31 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[05-Oct-2020 09:38:31 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[05-Oct-2020 09:38:31 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[05-Oct-2020 09:38:31 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[05-Oct-2020 13:25:18 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[05-Oct-2020 13:25:18 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[05-Oct-2020 13:25:18 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[05-Oct-2020 13:25:18 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[05-Oct-2020 13:25:18 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[05-Oct-2020 13:25:18 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[05-Oct-2020 13:25:18 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[05-Oct-2020 13:25:18 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[06-Oct-2020 09:16:36 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[06-Oct-2020 09:16:36 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[06-Oct-2020 09:16:36 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[06-Oct-2020 09:16:36 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[06-Oct-2020 09:16:36 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[06-Oct-2020 09:16:37 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[06-Oct-2020 09:16:37 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[06-Oct-2020 09:16:37 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[06-Oct-2020 17:08:36 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[06-Oct-2020 17:08:37 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[06-Oct-2020 17:08:37 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[06-Oct-2020 17:08:37 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[06-Oct-2020 17:08:37 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[06-Oct-2020 17:08:37 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[06-Oct-2020 17:08:37 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[06-Oct-2020 17:08:37 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[07-Oct-2020 18:34:43 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[07-Oct-2020 18:34:43 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[07-Oct-2020 18:34:43 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[07-Oct-2020 18:34:43 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[07-Oct-2020 18:34:43 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[07-Oct-2020 18:34:44 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[07-Oct-2020 18:34:44 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[07-Oct-2020 18:34:44 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[20-Oct-2020 10:37:56 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[20-Oct-2020 10:37:56 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[20-Oct-2020 10:37:56 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[20-Oct-2020 10:37:56 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[20-Oct-2020 10:37:56 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[20-Oct-2020 10:37:56 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[20-Oct-2020 10:37:56 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[20-Oct-2020 10:37:56 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[22-Oct-2020 11:06:51 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[22-Oct-2020 11:06:51 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[22-Oct-2020 11:06:51 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[22-Oct-2020 11:06:51 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[22-Oct-2020 11:06:51 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[22-Oct-2020 11:06:52 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[22-Oct-2020 11:06:52 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[22-Oct-2020 11:06:52 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[26-Oct-2020 09:22:48 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[26-Oct-2020 09:22:48 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[26-Oct-2020 09:22:48 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[26-Oct-2020 09:22:48 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[26-Oct-2020 09:22:48 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[26-Oct-2020 09:22:50 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[26-Oct-2020 09:22:50 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[26-Oct-2020 09:22:50 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[26-Oct-2020 09:25:12 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[26-Oct-2020 09:25:12 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[26-Oct-2020 09:25:12 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[26-Oct-2020 09:25:12 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[26-Oct-2020 09:25:12 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[26-Oct-2020 09:25:13 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[26-Oct-2020 09:25:13 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[26-Oct-2020 09:25:13 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[27-Oct-2020 16:59:58 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[27-Oct-2020 16:59:58 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[27-Oct-2020 16:59:58 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[27-Oct-2020 16:59:58 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[27-Oct-2020 16:59:58 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[27-Oct-2020 16:59:59 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[27-Oct-2020 16:59:59 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[27-Oct-2020 16:59:59 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[29-Oct-2020 09:34:05 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[29-Oct-2020 09:34:05 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[29-Oct-2020 09:34:05 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[29-Oct-2020 09:34:05 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[29-Oct-2020 09:34:05 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[29-Oct-2020 09:34:06 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[29-Oct-2020 09:34:06 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[29-Oct-2020 09:34:06 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[29-Oct-2020 12:35:15 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[29-Oct-2020 12:35:15 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[29-Oct-2020 12:35:15 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[29-Oct-2020 12:35:15 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[29-Oct-2020 12:35:15 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[29-Oct-2020 12:35:16 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[29-Oct-2020 12:35:16 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[29-Oct-2020 12:35:16 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[02-Nov-2020 11:55:30 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[02-Nov-2020 11:55:30 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[02-Nov-2020 11:55:30 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[02-Nov-2020 11:55:30 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[02-Nov-2020 11:55:30 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[02-Nov-2020 11:55:30 America/Santiago] PHP Notice:  Undefined index: sesion_usuario_panel in /home/ppsavcl/public_html/padmin_ope/menu_modulo.php on line 4
+[02-Nov-2020 11:55:30 America/Santiago] PHP Notice:  Undefined index: sesion_nombre_perfil_panel in /home/ppsavcl/public_html/padmin_ope/menu_modulo.php on line 5
+[02-Nov-2020 11:55:30 America/Santiago] PHP Notice:  Undefined index: sesion_id_panel in /home/ppsavcl/public_html/padmin_ope/menu_modulo.php on line 6
+[02-Nov-2020 16:23:37 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[02-Nov-2020 16:23:38 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[02-Nov-2020 16:23:38 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[02-Nov-2020 16:23:38 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[02-Nov-2020 16:23:38 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[02-Nov-2020 16:23:39 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[02-Nov-2020 16:24:13 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[02-Nov-2020 16:24:13 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[02-Nov-2020 16:24:13 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[02-Nov-2020 16:24:13 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[02-Nov-2020 16:24:13 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[02-Nov-2020 16:24:14 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[03-Nov-2020 09:44:56 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[03-Nov-2020 09:44:56 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[03-Nov-2020 09:44:56 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[03-Nov-2020 09:44:56 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[03-Nov-2020 09:44:56 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[03-Nov-2020 09:44:56 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[03-Nov-2020 09:44:56 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[03-Nov-2020 09:44:56 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[03-Nov-2020 19:02:44 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[03-Nov-2020 19:02:44 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[03-Nov-2020 19:02:44 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[03-Nov-2020 19:02:44 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[03-Nov-2020 19:02:44 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[03-Nov-2020 19:02:44 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[03-Nov-2020 19:02:44 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[03-Nov-2020 19:02:44 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[04-Nov-2020 15:57:43 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[04-Nov-2020 15:57:43 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[04-Nov-2020 15:57:43 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[04-Nov-2020 15:57:43 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[04-Nov-2020 15:57:43 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[04-Nov-2020 15:57:44 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[04-Nov-2020 15:57:44 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[04-Nov-2020 15:57:44 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[04-Nov-2020 17:58:55 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[04-Nov-2020 17:58:55 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[04-Nov-2020 17:58:55 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[04-Nov-2020 17:58:55 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[04-Nov-2020 17:58:55 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[04-Nov-2020 17:58:57 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[04-Nov-2020 17:58:57 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[04-Nov-2020 17:58:57 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[05-Nov-2020 10:01:47 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[05-Nov-2020 10:01:47 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[05-Nov-2020 10:01:47 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[05-Nov-2020 10:01:47 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[05-Nov-2020 10:01:47 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[05-Nov-2020 10:01:48 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[05-Nov-2020 10:01:48 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[05-Nov-2020 10:01:48 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[06-Nov-2020 10:18:05 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[06-Nov-2020 10:18:05 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[06-Nov-2020 10:18:05 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[06-Nov-2020 10:18:05 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[06-Nov-2020 10:18:05 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[06-Nov-2020 10:18:06 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[06-Nov-2020 10:18:06 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[06-Nov-2020 10:18:06 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[07-Nov-2020 12:30:40 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[07-Nov-2020 12:30:40 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[07-Nov-2020 12:30:40 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[07-Nov-2020 12:30:40 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[07-Nov-2020 12:30:40 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[07-Nov-2020 12:30:40 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[07-Nov-2020 12:30:40 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[07-Nov-2020 12:30:40 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[09-Nov-2020 16:02:05 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[09-Nov-2020 16:02:05 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[09-Nov-2020 16:02:05 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[09-Nov-2020 16:02:05 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[09-Nov-2020 16:02:05 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[09-Nov-2020 16:02:05 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[09-Nov-2020 16:02:05 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[09-Nov-2020 16:02:06 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[09-Nov-2020 17:02:00 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[09-Nov-2020 17:02:00 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[09-Nov-2020 17:02:00 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[09-Nov-2020 17:02:00 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[09-Nov-2020 17:02:00 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[09-Nov-2020 17:02:01 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[09-Nov-2020 17:02:01 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[09-Nov-2020 17:02:01 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[11-Nov-2020 10:25:44 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[11-Nov-2020 10:25:44 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[11-Nov-2020 10:25:44 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[11-Nov-2020 10:25:44 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[11-Nov-2020 10:25:44 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[11-Nov-2020 10:25:46 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[11-Nov-2020 10:25:46 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[11-Nov-2020 10:25:46 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[12-Nov-2020 10:48:30 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[12-Nov-2020 10:48:30 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[12-Nov-2020 10:48:30 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[12-Nov-2020 10:48:30 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[12-Nov-2020 10:48:30 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[12-Nov-2020 10:48:32 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[12-Nov-2020 10:48:32 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[12-Nov-2020 10:48:32 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[12-Nov-2020 17:26:51 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[12-Nov-2020 17:26:51 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[12-Nov-2020 17:26:51 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[12-Nov-2020 17:26:51 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[12-Nov-2020 17:26:51 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[12-Nov-2020 17:26:53 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[12-Nov-2020 17:26:53 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[12-Nov-2020 17:26:53 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[13-Nov-2020 09:32:17 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[13-Nov-2020 09:32:17 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[13-Nov-2020 09:32:17 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[13-Nov-2020 09:32:17 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[13-Nov-2020 09:32:17 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[13-Nov-2020 09:32:17 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[13-Nov-2020 09:32:17 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[13-Nov-2020 09:32:17 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[16-Nov-2020 11:30:17 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[16-Nov-2020 11:30:17 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[16-Nov-2020 11:30:17 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[16-Nov-2020 11:30:17 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[16-Nov-2020 11:30:17 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[16-Nov-2020 11:30:18 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[16-Nov-2020 11:30:18 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[16-Nov-2020 11:30:18 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[17-Nov-2020 10:06:39 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[17-Nov-2020 10:06:39 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[17-Nov-2020 10:06:39 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[17-Nov-2020 10:06:39 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[17-Nov-2020 10:06:39 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[17-Nov-2020 10:06:40 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[17-Nov-2020 10:06:40 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[17-Nov-2020 10:06:40 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[17-Nov-2020 12:53:10 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[17-Nov-2020 12:53:10 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[17-Nov-2020 12:53:10 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[17-Nov-2020 12:53:10 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[17-Nov-2020 12:53:10 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[17-Nov-2020 12:53:12 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[17-Nov-2020 12:53:12 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[17-Nov-2020 12:53:12 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[17-Nov-2020 12:54:57 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[17-Nov-2020 12:54:57 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[17-Nov-2020 12:54:57 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[17-Nov-2020 12:54:57 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[17-Nov-2020 12:54:57 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[17-Nov-2020 12:54:57 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[17-Nov-2020 12:54:57 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[17-Nov-2020 12:54:57 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[17-Nov-2020 16:39:27 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[17-Nov-2020 16:39:27 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[17-Nov-2020 16:39:27 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[17-Nov-2020 16:39:27 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[17-Nov-2020 16:39:27 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[17-Nov-2020 16:39:28 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[17-Nov-2020 16:39:28 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[17-Nov-2020 16:39:28 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[18-Nov-2020 15:56:38 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[18-Nov-2020 15:56:38 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[18-Nov-2020 15:56:38 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[18-Nov-2020 15:56:38 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[18-Nov-2020 15:56:38 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[18-Nov-2020 15:56:39 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[18-Nov-2020 15:56:39 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[18-Nov-2020 15:56:39 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[19-Nov-2020 09:27:43 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[19-Nov-2020 09:27:43 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[19-Nov-2020 09:27:43 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[19-Nov-2020 09:27:43 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[19-Nov-2020 09:27:43 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[19-Nov-2020 09:27:44 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[19-Nov-2020 09:27:44 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[19-Nov-2020 09:27:44 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[20-Nov-2020 10:23:49 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[20-Nov-2020 10:23:49 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[20-Nov-2020 10:23:49 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[20-Nov-2020 10:23:49 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[20-Nov-2020 10:23:49 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[20-Nov-2020 10:23:50 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[20-Nov-2020 10:23:50 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[20-Nov-2020 10:23:50 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[20-Nov-2020 16:17:13 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[20-Nov-2020 16:17:13 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[20-Nov-2020 16:17:13 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[20-Nov-2020 16:17:13 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[20-Nov-2020 16:17:13 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[20-Nov-2020 16:17:14 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[20-Nov-2020 16:17:14 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[20-Nov-2020 16:17:14 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[23-Nov-2020 10:46:48 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[23-Nov-2020 10:46:48 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[23-Nov-2020 10:46:48 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[23-Nov-2020 10:46:48 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[23-Nov-2020 10:46:48 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[23-Nov-2020 10:46:49 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[23-Nov-2020 10:46:49 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[23-Nov-2020 10:46:49 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[24-Nov-2020 09:27:35 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[24-Nov-2020 09:27:35 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[24-Nov-2020 09:27:35 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[24-Nov-2020 09:27:35 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[24-Nov-2020 09:27:35 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[24-Nov-2020 09:27:36 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[24-Nov-2020 09:27:36 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[24-Nov-2020 09:27:36 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[24-Nov-2020 18:18:28 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[24-Nov-2020 18:18:28 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[24-Nov-2020 18:18:28 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[24-Nov-2020 18:18:28 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[24-Nov-2020 18:18:28 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[24-Nov-2020 18:18:30 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[24-Nov-2020 18:18:30 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[24-Nov-2020 18:18:30 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[25-Nov-2020 10:45:33 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[25-Nov-2020 10:45:33 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[25-Nov-2020 10:45:33 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[25-Nov-2020 10:45:33 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[25-Nov-2020 10:45:33 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[25-Nov-2020 10:45:33 America/Santiago] PHP Notice:  Undefined index: sesion_usuario_panel in /home/ppsavcl/public_html/padmin_ope/menu_modulo.php on line 4
+[25-Nov-2020 10:45:33 America/Santiago] PHP Notice:  Undefined index: sesion_nombre_perfil_panel in /home/ppsavcl/public_html/padmin_ope/menu_modulo.php on line 5
+[25-Nov-2020 10:45:33 America/Santiago] PHP Notice:  Undefined index: sesion_id_panel in /home/ppsavcl/public_html/padmin_ope/menu_modulo.php on line 6
+[25-Nov-2020 10:46:07 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[25-Nov-2020 10:46:07 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[25-Nov-2020 10:46:07 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[25-Nov-2020 10:46:07 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[25-Nov-2020 10:46:07 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[25-Nov-2020 10:46:08 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[25-Nov-2020 10:46:08 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[25-Nov-2020 10:46:08 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[26-Nov-2020 09:42:00 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[26-Nov-2020 09:42:00 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[26-Nov-2020 09:42:00 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[26-Nov-2020 09:42:00 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[26-Nov-2020 09:42:00 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[26-Nov-2020 09:42:01 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[26-Nov-2020 09:42:01 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[26-Nov-2020 09:42:01 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[27-Nov-2020 09:09:42 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[27-Nov-2020 09:09:42 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[27-Nov-2020 09:09:42 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[27-Nov-2020 09:09:42 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[27-Nov-2020 09:09:42 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[27-Nov-2020 09:09:43 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[27-Nov-2020 09:09:43 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[27-Nov-2020 09:09:43 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[02-Dec-2020 11:16:41 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[02-Dec-2020 11:16:41 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[02-Dec-2020 11:16:41 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[02-Dec-2020 11:16:41 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[02-Dec-2020 11:16:41 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[02-Dec-2020 11:16:42 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[02-Dec-2020 11:16:42 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[02-Dec-2020 11:16:42 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[02-Dec-2020 11:54:27 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[02-Dec-2020 11:54:27 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[02-Dec-2020 11:54:27 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[02-Dec-2020 11:54:27 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[02-Dec-2020 11:54:27 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[02-Dec-2020 11:54:28 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[02-Dec-2020 11:54:28 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[02-Dec-2020 11:54:28 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[03-Dec-2020 10:00:54 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[03-Dec-2020 10:00:54 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[03-Dec-2020 10:00:54 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[03-Dec-2020 10:00:54 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[03-Dec-2020 10:00:54 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[03-Dec-2020 10:00:55 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[03-Dec-2020 10:00:55 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[03-Dec-2020 10:00:55 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[04-Dec-2020 12:33:08 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[04-Dec-2020 12:33:08 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[04-Dec-2020 12:33:08 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[04-Dec-2020 12:33:08 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[04-Dec-2020 12:33:08 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[04-Dec-2020 12:33:08 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[04-Dec-2020 12:33:08 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[04-Dec-2020 12:33:08 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[09-Dec-2020 16:16:57 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[09-Dec-2020 16:16:57 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[09-Dec-2020 16:16:57 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[09-Dec-2020 16:16:57 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[09-Dec-2020 16:16:57 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[09-Dec-2020 16:16:58 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[09-Dec-2020 16:16:58 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[09-Dec-2020 16:16:58 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[10-Dec-2020 13:00:57 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[10-Dec-2020 13:00:57 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[10-Dec-2020 13:00:57 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[10-Dec-2020 13:00:57 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[10-Dec-2020 13:00:57 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[10-Dec-2020 13:00:57 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[10-Dec-2020 13:00:57 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[10-Dec-2020 13:00:57 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[10-Dec-2020 13:02:50 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[10-Dec-2020 13:02:50 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[10-Dec-2020 13:02:50 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[10-Dec-2020 13:02:50 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[10-Dec-2020 13:02:50 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[10-Dec-2020 13:02:51 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[10-Dec-2020 13:02:51 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[10-Dec-2020 13:02:51 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[15-Dec-2020 18:07:06 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[15-Dec-2020 18:07:06 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[15-Dec-2020 18:07:06 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[15-Dec-2020 18:07:06 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[15-Dec-2020 18:07:06 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[15-Dec-2020 18:07:07 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[15-Dec-2020 18:07:07 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[15-Dec-2020 18:07:07 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[16-Dec-2020 15:13:04 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[16-Dec-2020 15:13:04 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[16-Dec-2020 15:13:04 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[16-Dec-2020 15:13:04 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[16-Dec-2020 15:13:04 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[16-Dec-2020 15:13:05 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[17-Dec-2020 18:47:28 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[17-Dec-2020 18:47:28 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[17-Dec-2020 18:47:28 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[17-Dec-2020 18:47:28 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[17-Dec-2020 18:47:28 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[17-Dec-2020 18:47:29 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[17-Dec-2020 18:47:29 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[17-Dec-2020 18:47:29 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[17-Dec-2020 19:04:04 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[17-Dec-2020 19:04:04 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[17-Dec-2020 19:04:04 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[17-Dec-2020 19:04:04 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[17-Dec-2020 19:04:04 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[17-Dec-2020 19:04:05 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[17-Dec-2020 19:04:05 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[17-Dec-2020 19:04:05 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[24-Dec-2020 09:19:16 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[24-Dec-2020 09:19:16 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[24-Dec-2020 09:19:16 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[24-Dec-2020 09:19:16 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[24-Dec-2020 09:19:16 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[24-Dec-2020 09:19:16 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[24-Dec-2020 09:19:16 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[24-Dec-2020 09:19:16 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[28-Dec-2020 10:11:07 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[28-Dec-2020 10:11:07 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[28-Dec-2020 10:11:07 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[28-Dec-2020 10:11:07 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[28-Dec-2020 10:11:07 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[28-Dec-2020 10:11:08 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[28-Dec-2020 10:11:08 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[28-Dec-2020 10:11:08 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[30-Dec-2020 11:52:35 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[30-Dec-2020 11:52:35 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[30-Dec-2020 11:52:35 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[30-Dec-2020 11:52:35 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[30-Dec-2020 11:52:35 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[30-Dec-2020 11:52:36 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[30-Dec-2020 11:53:43 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[30-Dec-2020 11:53:43 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[30-Dec-2020 11:53:43 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[30-Dec-2020 11:53:43 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[30-Dec-2020 11:53:43 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[30-Dec-2020 11:53:44 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[30-Dec-2020 11:53:44 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[30-Dec-2020 11:53:44 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[31-Dec-2020 12:03:11 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[31-Dec-2020 12:03:11 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[31-Dec-2020 12:03:11 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[31-Dec-2020 12:03:11 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[31-Dec-2020 12:03:11 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[31-Dec-2020 12:03:12 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[31-Dec-2020 12:03:12 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[31-Dec-2020 12:03:12 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[04-Jan-2021 18:50:03 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[04-Jan-2021 18:50:03 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[04-Jan-2021 18:50:03 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[04-Jan-2021 18:50:03 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[04-Jan-2021 18:50:03 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[04-Jan-2021 18:50:04 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[04-Jan-2021 18:50:04 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[04-Jan-2021 18:50:04 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[06-Jan-2021 11:01:37 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[06-Jan-2021 11:01:37 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[06-Jan-2021 11:01:37 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[06-Jan-2021 11:01:37 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[06-Jan-2021 11:01:37 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[06-Jan-2021 11:01:37 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[06-Jan-2021 11:01:37 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[06-Jan-2021 11:01:37 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[06-Jan-2021 11:09:46 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[06-Jan-2021 11:09:46 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[06-Jan-2021 11:09:46 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[06-Jan-2021 11:09:46 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[06-Jan-2021 11:09:46 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[06-Jan-2021 11:09:47 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[06-Jan-2021 11:09:47 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[06-Jan-2021 11:09:47 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[07-Jan-2021 10:02:32 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[07-Jan-2021 10:02:32 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[07-Jan-2021 10:02:32 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[07-Jan-2021 10:02:32 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[07-Jan-2021 10:02:32 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[07-Jan-2021 10:02:33 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[07-Jan-2021 10:02:33 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[07-Jan-2021 10:02:33 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[08-Jan-2021 18:05:08 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[08-Jan-2021 18:05:08 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[08-Jan-2021 18:05:08 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[08-Jan-2021 18:05:08 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[08-Jan-2021 18:05:08 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[08-Jan-2021 18:05:09 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[08-Jan-2021 18:05:09 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[08-Jan-2021 18:05:09 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[12-Jan-2021 11:24:31 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[12-Jan-2021 11:24:31 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[12-Jan-2021 11:24:31 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[12-Jan-2021 11:24:31 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[12-Jan-2021 11:24:31 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[12-Jan-2021 11:24:32 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[12-Jan-2021 11:24:32 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[12-Jan-2021 11:24:32 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[12-Jan-2021 18:53:54 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[12-Jan-2021 18:53:54 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[12-Jan-2021 18:53:54 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[12-Jan-2021 18:53:54 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[12-Jan-2021 18:53:54 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[12-Jan-2021 18:53:55 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[12-Jan-2021 18:53:55 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[12-Jan-2021 18:53:55 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[13-Jan-2021 18:49:45 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[13-Jan-2021 18:49:45 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[13-Jan-2021 18:49:45 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[13-Jan-2021 18:49:45 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[13-Jan-2021 18:49:45 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[13-Jan-2021 18:49:46 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[13-Jan-2021 18:49:46 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[13-Jan-2021 18:49:46 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[14-Jan-2021 11:27:19 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[14-Jan-2021 11:27:19 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[14-Jan-2021 11:27:19 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[14-Jan-2021 11:27:19 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[14-Jan-2021 11:27:19 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[14-Jan-2021 11:27:19 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[14-Jan-2021 11:27:19 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[14-Jan-2021 11:27:19 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[15-Jan-2021 09:26:29 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[15-Jan-2021 09:26:29 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[15-Jan-2021 09:26:29 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[15-Jan-2021 09:26:29 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[15-Jan-2021 09:26:29 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[15-Jan-2021 09:26:30 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[15-Jan-2021 09:26:30 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[15-Jan-2021 09:26:30 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[15-Jan-2021 15:52:42 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[15-Jan-2021 15:52:42 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[15-Jan-2021 15:52:42 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[15-Jan-2021 15:52:42 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[15-Jan-2021 15:52:42 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[15-Jan-2021 15:52:43 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[15-Jan-2021 15:52:43 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[15-Jan-2021 15:52:43 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[18-Jan-2021 17:58:39 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[18-Jan-2021 17:58:39 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[18-Jan-2021 17:58:39 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[18-Jan-2021 17:58:39 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[18-Jan-2021 17:58:39 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[18-Jan-2021 17:58:40 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[18-Jan-2021 17:58:40 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[18-Jan-2021 17:58:40 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[18-Jan-2021 18:03:34 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[18-Jan-2021 18:03:34 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[18-Jan-2021 18:03:34 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[18-Jan-2021 18:03:34 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[18-Jan-2021 18:03:34 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[18-Jan-2021 18:03:35 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[18-Jan-2021 18:03:35 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[18-Jan-2021 18:03:35 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[21-Jan-2021 10:23:34 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[21-Jan-2021 10:23:34 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[21-Jan-2021 10:23:34 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[21-Jan-2021 10:23:34 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[21-Jan-2021 10:23:34 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[21-Jan-2021 10:23:35 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[21-Jan-2021 10:23:35 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[21-Jan-2021 10:23:35 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[22-Jan-2021 17:06:40 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[22-Jan-2021 17:06:40 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[22-Jan-2021 17:06:40 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[22-Jan-2021 17:06:40 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[22-Jan-2021 17:06:40 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[22-Jan-2021 17:06:41 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[22-Jan-2021 17:06:41 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[22-Jan-2021 17:06:41 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[26-Jan-2021 09:54:41 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[26-Jan-2021 09:54:41 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[26-Jan-2021 09:54:41 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[26-Jan-2021 09:54:41 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[26-Jan-2021 09:54:41 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[26-Jan-2021 09:54:42 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[26-Jan-2021 09:54:42 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[26-Jan-2021 09:54:42 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[26-Jan-2021 09:55:28 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[26-Jan-2021 09:55:28 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[26-Jan-2021 09:55:28 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[26-Jan-2021 09:55:28 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[26-Jan-2021 09:55:28 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[26-Jan-2021 09:55:28 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[26-Jan-2021 09:55:28 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[26-Jan-2021 09:55:28 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[26-Jan-2021 17:36:23 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[26-Jan-2021 17:36:23 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[26-Jan-2021 17:36:23 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[26-Jan-2021 17:36:23 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[26-Jan-2021 17:36:23 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[26-Jan-2021 17:36:24 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[26-Jan-2021 17:36:24 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[26-Jan-2021 17:36:24 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[26-Jan-2021 17:47:07 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[26-Jan-2021 17:47:07 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[26-Jan-2021 17:47:07 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[26-Jan-2021 17:47:07 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[26-Jan-2021 17:47:07 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[26-Jan-2021 17:47:09 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[26-Jan-2021 17:47:09 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[26-Jan-2021 17:47:09 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[26-Jan-2021 17:50:46 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[26-Jan-2021 17:50:46 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[26-Jan-2021 17:50:46 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[26-Jan-2021 17:50:46 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[26-Jan-2021 17:50:46 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[26-Jan-2021 17:50:46 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[26-Jan-2021 17:50:46 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[26-Jan-2021 17:50:46 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[27-Jan-2021 19:14:30 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[27-Jan-2021 19:14:30 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[27-Jan-2021 19:14:30 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[27-Jan-2021 19:14:30 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[27-Jan-2021 19:14:30 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[27-Jan-2021 19:14:31 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[27-Jan-2021 19:14:31 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[27-Jan-2021 19:14:31 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[29-Jan-2021 09:01:04 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[29-Jan-2021 09:01:04 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[29-Jan-2021 09:01:04 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[29-Jan-2021 09:01:04 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[29-Jan-2021 09:01:04 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[29-Jan-2021 09:01:05 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[29-Jan-2021 09:01:05 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[29-Jan-2021 09:01:05 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[29-Jan-2021 10:45:22 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[29-Jan-2021 10:45:22 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[29-Jan-2021 10:45:22 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[29-Jan-2021 10:45:22 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[29-Jan-2021 10:45:22 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[29-Jan-2021 10:45:22 America/Santiago] PHP Notice:  Undefined index: sesion_usuario_panel in /home/ppsavcl/public_html/padmin_ope/menu_modulo.php on line 4
+[29-Jan-2021 10:45:22 America/Santiago] PHP Notice:  Undefined index: sesion_nombre_perfil_panel in /home/ppsavcl/public_html/padmin_ope/menu_modulo.php on line 5
+[29-Jan-2021 10:45:22 America/Santiago] PHP Notice:  Undefined index: sesion_id_panel in /home/ppsavcl/public_html/padmin_ope/menu_modulo.php on line 6
+[29-Jan-2021 10:45:45 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[29-Jan-2021 10:45:45 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[29-Jan-2021 10:45:45 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[29-Jan-2021 10:45:45 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[29-Jan-2021 10:45:45 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[29-Jan-2021 10:45:46 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[29-Jan-2021 10:45:46 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[29-Jan-2021 10:45:46 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[29-Jan-2021 10:49:26 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[29-Jan-2021 10:49:26 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[29-Jan-2021 10:49:26 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[29-Jan-2021 10:49:26 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[29-Jan-2021 10:49:26 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[29-Jan-2021 10:49:27 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[29-Jan-2021 10:49:27 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[29-Jan-2021 10:49:27 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[02-Feb-2021 11:43:40 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[02-Feb-2021 11:43:40 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[02-Feb-2021 11:43:40 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[02-Feb-2021 11:43:40 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[02-Feb-2021 11:43:40 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[02-Feb-2021 11:43:41 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[02-Feb-2021 11:43:41 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[02-Feb-2021 11:43:41 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[04-Feb-2021 08:08:30 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[04-Feb-2021 08:08:30 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[04-Feb-2021 08:08:30 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[04-Feb-2021 08:08:30 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[04-Feb-2021 08:08:30 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[04-Feb-2021 08:08:31 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[04-Feb-2021 08:08:31 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[04-Feb-2021 08:08:31 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[05-Feb-2021 12:36:22 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[05-Feb-2021 12:36:23 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[05-Feb-2021 12:36:23 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[05-Feb-2021 12:36:23 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[05-Feb-2021 12:36:23 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[05-Feb-2021 12:36:23 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[05-Feb-2021 12:36:23 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[05-Feb-2021 12:36:23 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[05-Feb-2021 18:49:40 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[05-Feb-2021 18:49:40 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[05-Feb-2021 18:49:40 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[05-Feb-2021 18:49:40 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[05-Feb-2021 18:49:40 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[05-Feb-2021 18:49:41 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[05-Feb-2021 18:49:41 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[05-Feb-2021 18:49:41 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[08-Feb-2021 19:17:16 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[08-Feb-2021 19:17:16 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[08-Feb-2021 19:17:16 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[08-Feb-2021 19:17:16 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[08-Feb-2021 19:17:16 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[08-Feb-2021 19:17:17 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[08-Feb-2021 19:17:17 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[08-Feb-2021 19:17:17 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[11-Feb-2021 11:23:51 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[11-Feb-2021 11:23:52 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[11-Feb-2021 11:23:52 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[11-Feb-2021 11:23:52 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[11-Feb-2021 11:23:52 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[11-Feb-2021 11:23:53 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[11-Feb-2021 11:23:53 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[11-Feb-2021 11:23:53 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[12-Feb-2021 11:03:28 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[12-Feb-2021 11:03:28 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[12-Feb-2021 11:03:28 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[12-Feb-2021 11:03:28 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[12-Feb-2021 11:03:28 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[12-Feb-2021 11:03:29 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[12-Feb-2021 11:03:29 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[12-Feb-2021 11:03:29 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[12-Feb-2021 20:15:36 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[12-Feb-2021 20:15:36 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[12-Feb-2021 20:15:36 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[12-Feb-2021 20:15:36 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[12-Feb-2021 20:15:36 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[12-Feb-2021 20:15:37 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[12-Feb-2021 20:15:37 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[12-Feb-2021 20:15:37 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[16-Feb-2021 09:28:31 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[16-Feb-2021 09:28:31 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[16-Feb-2021 09:28:31 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[16-Feb-2021 09:28:31 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[16-Feb-2021 09:28:31 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[16-Feb-2021 09:28:32 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[16-Feb-2021 09:28:32 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[16-Feb-2021 09:28:32 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[16-Feb-2021 09:31:30 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[16-Feb-2021 09:31:30 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[16-Feb-2021 09:31:30 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[16-Feb-2021 09:31:30 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[16-Feb-2021 09:31:30 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[16-Feb-2021 09:31:31 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[16-Feb-2021 09:31:31 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[16-Feb-2021 09:31:31 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[16-Feb-2021 12:40:35 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[16-Feb-2021 12:40:35 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[16-Feb-2021 12:40:35 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[16-Feb-2021 12:40:35 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[16-Feb-2021 12:40:35 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[16-Feb-2021 12:40:36 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[16-Feb-2021 12:40:36 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[16-Feb-2021 12:40:36 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[19-Feb-2021 16:27:55 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[19-Feb-2021 16:27:55 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[19-Feb-2021 16:27:55 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[19-Feb-2021 16:27:55 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[19-Feb-2021 16:27:55 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[19-Feb-2021 16:27:56 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[19-Feb-2021 16:27:56 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[19-Feb-2021 16:27:56 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[25-Feb-2021 19:04:05 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[25-Feb-2021 19:04:05 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[25-Feb-2021 19:04:05 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[25-Feb-2021 19:04:05 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[25-Feb-2021 19:04:05 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[25-Feb-2021 19:04:05 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[25-Feb-2021 19:04:05 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[25-Feb-2021 19:04:06 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[01-Mar-2021 19:18:35 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[01-Mar-2021 19:18:35 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[01-Mar-2021 19:18:35 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[01-Mar-2021 19:18:35 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[01-Mar-2021 19:18:35 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[01-Mar-2021 19:18:36 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[01-Mar-2021 19:18:36 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[01-Mar-2021 19:18:36 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[02-Mar-2021 11:24:37 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[02-Mar-2021 11:24:37 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[02-Mar-2021 11:24:37 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[02-Mar-2021 11:24:37 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[02-Mar-2021 11:24:37 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[02-Mar-2021 11:24:38 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[02-Mar-2021 11:24:38 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[02-Mar-2021 11:24:38 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[02-Mar-2021 13:08:02 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[02-Mar-2021 13:08:02 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[02-Mar-2021 13:08:02 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[02-Mar-2021 13:08:02 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[02-Mar-2021 13:08:02 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[03-Mar-2021 15:53:12 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[03-Mar-2021 15:53:12 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[03-Mar-2021 15:53:12 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[03-Mar-2021 15:53:12 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[03-Mar-2021 15:53:12 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[03-Mar-2021 15:53:13 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[03-Mar-2021 15:53:13 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[03-Mar-2021 15:53:13 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[04-Mar-2021 18:59:33 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[04-Mar-2021 18:59:33 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[04-Mar-2021 18:59:33 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[04-Mar-2021 18:59:33 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[04-Mar-2021 18:59:33 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[04-Mar-2021 18:59:34 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[04-Mar-2021 18:59:34 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[04-Mar-2021 18:59:34 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[05-Mar-2021 10:23:16 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[05-Mar-2021 10:23:16 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[05-Mar-2021 10:23:16 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[05-Mar-2021 10:23:16 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[05-Mar-2021 10:23:16 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[05-Mar-2021 10:23:16 America/Santiago] PHP Notice:  Undefined index: sesion_usuario_panel in /home/ppsavcl/public_html/padmin_ope/menu_modulo.php on line 4
+[05-Mar-2021 10:23:16 America/Santiago] PHP Notice:  Undefined index: sesion_nombre_perfil_panel in /home/ppsavcl/public_html/padmin_ope/menu_modulo.php on line 5
+[05-Mar-2021 10:23:16 America/Santiago] PHP Notice:  Undefined index: sesion_id_panel in /home/ppsavcl/public_html/padmin_ope/menu_modulo.php on line 6
+[05-Mar-2021 18:01:18 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[05-Mar-2021 18:01:18 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[05-Mar-2021 18:01:18 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[05-Mar-2021 18:01:18 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[05-Mar-2021 18:01:18 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[05-Mar-2021 18:01:19 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[05-Mar-2021 18:01:19 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[05-Mar-2021 18:01:19 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[08-Mar-2021 10:28:25 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[08-Mar-2021 10:28:25 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[08-Mar-2021 10:28:25 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[08-Mar-2021 10:28:25 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[08-Mar-2021 10:28:25 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[08-Mar-2021 10:28:25 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[08-Mar-2021 10:28:25 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[08-Mar-2021 10:28:25 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[08-Mar-2021 11:25:40 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[08-Mar-2021 11:25:40 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[08-Mar-2021 11:25:40 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[08-Mar-2021 11:25:40 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[08-Mar-2021 11:25:40 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[08-Mar-2021 11:25:41 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[08-Mar-2021 11:25:41 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[08-Mar-2021 11:25:41 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[08-Mar-2021 11:33:42 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[08-Mar-2021 11:33:42 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[08-Mar-2021 11:33:42 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[08-Mar-2021 11:33:42 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[08-Mar-2021 11:33:42 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[08-Mar-2021 11:33:43 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[08-Mar-2021 11:33:43 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[08-Mar-2021 11:33:43 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[08-Mar-2021 20:50:47 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[08-Mar-2021 20:50:47 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[08-Mar-2021 20:50:47 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[08-Mar-2021 20:50:47 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[08-Mar-2021 20:50:47 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[08-Mar-2021 20:50:48 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[08-Mar-2021 20:50:48 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[08-Mar-2021 20:50:48 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[09-Mar-2021 12:38:33 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[09-Mar-2021 12:38:33 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[09-Mar-2021 12:38:33 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[09-Mar-2021 12:38:33 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[09-Mar-2021 12:38:33 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[09-Mar-2021 12:38:34 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[09-Mar-2021 12:38:34 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[09-Mar-2021 12:38:34 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[12-Mar-2021 14:11:34 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[12-Mar-2021 14:11:34 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[12-Mar-2021 14:11:34 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[12-Mar-2021 14:11:34 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[12-Mar-2021 14:11:34 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[12-Mar-2021 14:11:34 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[12-Mar-2021 14:11:34 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[12-Mar-2021 14:11:34 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[12-Mar-2021 15:55:21 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[12-Mar-2021 15:55:21 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[12-Mar-2021 15:55:21 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[12-Mar-2021 15:55:21 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[12-Mar-2021 15:55:21 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[12-Mar-2021 15:55:21 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[12-Mar-2021 15:55:21 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[12-Mar-2021 15:55:21 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[17-Mar-2021 19:22:42 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[17-Mar-2021 19:22:42 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[17-Mar-2021 19:22:42 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[17-Mar-2021 19:22:42 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[17-Mar-2021 19:22:42 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[17-Mar-2021 19:22:43 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[17-Mar-2021 19:22:43 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[17-Mar-2021 19:22:43 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[18-Mar-2021 11:58:13 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[18-Mar-2021 11:58:13 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[18-Mar-2021 11:58:13 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[18-Mar-2021 11:58:13 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[18-Mar-2021 11:58:13 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[18-Mar-2021 11:58:13 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[18-Mar-2021 11:58:13 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[18-Mar-2021 11:58:13 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[22-Mar-2021 10:52:36 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[22-Mar-2021 10:52:38 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[22-Mar-2021 10:52:38 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[22-Mar-2021 10:52:38 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[22-Mar-2021 10:52:38 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[22-Mar-2021 10:52:40 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[22-Mar-2021 10:52:40 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[22-Mar-2021 10:52:40 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[23-Mar-2021 13:25:39 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[23-Mar-2021 13:25:39 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[23-Mar-2021 13:25:39 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[23-Mar-2021 13:25:39 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[23-Mar-2021 13:25:39 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[23-Mar-2021 13:25:40 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[23-Mar-2021 13:25:40 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[23-Mar-2021 13:25:40 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[25-Mar-2021 10:08:50 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[25-Mar-2021 10:08:50 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[25-Mar-2021 10:08:50 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[25-Mar-2021 10:08:50 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[25-Mar-2021 10:08:50 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[25-Mar-2021 10:08:50 America/Santiago] PHP Notice:  Undefined index: sesion_usuario_panel in /home/ppsavcl/public_html/padmin_ope/menu_modulo.php on line 4
+[25-Mar-2021 10:08:50 America/Santiago] PHP Notice:  Undefined index: sesion_nombre_perfil_panel in /home/ppsavcl/public_html/padmin_ope/menu_modulo.php on line 5
+[25-Mar-2021 10:08:50 America/Santiago] PHP Notice:  Undefined index: sesion_id_panel in /home/ppsavcl/public_html/padmin_ope/menu_modulo.php on line 6
+[29-Mar-2021 15:32:50 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[29-Mar-2021 15:32:50 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[29-Mar-2021 15:32:50 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[29-Mar-2021 15:32:50 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[29-Mar-2021 15:32:50 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[29-Mar-2021 15:32:54 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[29-Mar-2021 15:32:54 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[29-Mar-2021 15:32:54 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[01-Apr-2021 16:53:42 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[01-Apr-2021 16:53:42 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[01-Apr-2021 16:53:42 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[01-Apr-2021 16:53:42 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[01-Apr-2021 16:53:42 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[01-Apr-2021 16:53:43 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[01-Apr-2021 16:53:43 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[01-Apr-2021 16:53:43 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[01-Apr-2021 17:55:53 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[01-Apr-2021 17:55:53 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[01-Apr-2021 17:55:53 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[01-Apr-2021 17:55:53 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[01-Apr-2021 17:55:53 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[01-Apr-2021 17:55:54 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[01-Apr-2021 17:55:54 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[01-Apr-2021 17:55:54 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[01-Apr-2021 18:14:17 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[01-Apr-2021 18:14:17 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[01-Apr-2021 18:14:17 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[01-Apr-2021 18:14:17 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[01-Apr-2021 18:14:17 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[01-Apr-2021 18:14:18 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[01-Apr-2021 18:14:18 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[01-Apr-2021 18:14:18 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[05-Apr-2021 10:38:43 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[05-Apr-2021 10:38:43 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[05-Apr-2021 10:38:43 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[05-Apr-2021 10:38:43 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[05-Apr-2021 10:38:43 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[05-Apr-2021 10:38:44 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[05-Apr-2021 10:38:44 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[05-Apr-2021 10:38:44 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152
+[05-Apr-2021 11:17:30 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[05-Apr-2021 11:17:30 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[05-Apr-2021 11:17:30 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[05-Apr-2021 11:17:30 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[05-Apr-2021 11:17:30 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[06-Apr-2021 10:26:01 America/Santiago] PHP Notice:  Constant _RUTA already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 10
+[06-Apr-2021 10:26:01 America/Santiago] PHP Notice:  Constant _ADMIN already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 11
+[06-Apr-2021 10:26:01 America/Santiago] PHP Notice:  Constant _ASSETS already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 12
+[06-Apr-2021 10:26:01 America/Santiago] PHP Notice:  Constant _MODULO already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 13
+[06-Apr-2021 10:26:01 America/Santiago] PHP Notice:  Constant _INCLUDE already defined in /home/ppsavcl/public_html/padmin_ope/config.php on line 15
+[06-Apr-2021 10:26:02 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[06-Apr-2021 10:26:02 America/Santiago] PHP Notice:  Undefined variable: filtro in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 89
+[06-Apr-2021 10:26:02 America/Santiago] PHP Notice:  Undefined index: sEcho in /home/ppsavcl/public_html/padmin_ope/modulo/mailing/select.php on line 152

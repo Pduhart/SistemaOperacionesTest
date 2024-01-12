@@ -1,0 +1,294 @@
+/*CABECERA Y MENU*/
+
+.user-panel>.info {
+    padding: 15px 5px 5px 15px;
+}
+
+/*LOGO UCN*/
+.logo-ucn{
+    margin-top: 3px;
+}
+
+/*FOOTER*/
+
+/*TABLE TOOLS*/
+.dt-buttons{
+	float: right;
+}
+
+.user-panel {
+    min-height: 50px;
+}
+
+form label.error{
+	color: #F00505;
+	font-weight: 500;
+}
+
+button.btn.btn-sm.btn-icon{
+  margin: 3px;
+}
+
+/*check tabla*/
+.table input[type="checkbox"] {
+    display:none;
+}
+.table input[type="checkbox"] + label span {
+    display:inline-block;
+    width:19px;
+    height:19px;
+    margin:-1px 4px 0 0;
+    vertical-align:middle;
+    background:url(../../img/check_radio_sheet.png) left top no-repeat;
+    cursor:pointer;
+}
+.table input[type="checkbox"]:checked + label span {
+    background:url(../../img/check_radio_sheet.png) -19px top no-repeat;
+}
+
+/*CHECK DE PERFILES*/
+ul.list-unstyled li input[type="checkbox"] {
+    display:none;
+}
+
+ul.list-unstyled li input[type="checkbox"] + label span {
+    display:inline-block;
+    width:19px;
+    height:19px;
+    margin:-1px 4px 0 0;
+    vertical-align:middle;
+    background:url(../../img/check_radio_sheet.png) left top no-repeat;
+    cursor:pointer;
+}
+
+ul.list-unstyled li input[type="checkbox"]:checked + label span {
+    background:url(../../img/check_radio_sheet.png) -19px top no-repeat;
+}
+
+/*RADIOS*/
+
+.fxradio label {
+  display: inline-block;
+  cursor: pointer;
+  position: relative;
+  padding-left: 25px;
+  margin-right: 15px;
+  font-size: 13px;
+}
+
+.fxradio input[type=radio] {
+  display: none;
+}
+
+.fxradio label:before {
+  content: "";
+  display: inline-block;
+ 
+  width: 19px;
+  height: 18px;
+ 
+  margin-right: 10px;
+  position: absolute;
+  left: 0;
+  bottom: 1px;
+  /*background-color: #aaa;
+  box-shadow: inset 0px 2px 3px 0px rgba(0, 0, 0, .3), 0px 1px 0px 0px rgba(255, 255, 255, .8);*/
+  background:url(../../img/check_radio_sheet.png) -38px top no-repeat;
+}
+
+.fxradio .radio label:before {
+  border-radius: 8px;
+}
+
+.fxradio input[type=radio]:checked + label:before {
+    /*content: "\2022";
+    color: #f3f3f3;
+    font-size: 30px;
+    text-align: center;
+    line-height: 18px;*/
+    background:url(../../img/check_radio_sheet.png) -58px top no-repeat;
+}
+
+.fxradio .radio {
+  display: inline-block;
+}
+
+/*CAJAS EN FORMULARIOS*/
+#formulario .box {
+    position: relative;
+    border-radius: 3px;
+    background: #ffffff;
+    /*border-top: 3px solid #d2d6de;*/
+    margin-bottom: 20px;
+    width: 100%;
+    box-shadow: none;
+}
+
+/*MARIGN 40*/
+.margin-bottom-40 {
+  margin-bottom: 40px;
+}
+
+/*hoja grande*/
+
+.container-fluid.amplio {
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.container-fluid.amplio .content {
+    min-height: 250px;
+    /* padding: 15px; */
+    padding-top: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.container-fluid.amplio .content .col-sm-12{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.container-fluid.amplio .content .form-control {
+    display: block;
+    width: 100%;
+    height: 24px;
+    padding: 2px 4px;
+    font-size: 12px;
+    line-height: 1.3;
+}
+
+.container-fluid.amplio .content .table>tbody>tr>td,
+.container-fluid.amplio .content .table>tbody>tr>th, 
+.container-fluid.amplio .content .table>tfoot>tr>td,
+.container-fluid.amplio .content .table>tfoot>tr>th,
+.container-fluid.amplio .content .table>thead>tr>td,
+.container-fluid.amplio .content .table>thead>tr>th {
+    padding-top: 2px;
+    padding-left: 1px;
+    padding-right: 1px;
+    line-height: 1.3;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+    text-align: center;
+}
+
+.container-fluid.amplio thead tr th{
+    font-size: 12px;
+}
+
+.container-fluid.amplio .row#tabla_arriendo{
+    margin-right: -5px;
+    margin-left: -5px;
+}
+
+/*CAJAS DE ACCESOS INFORMES*/
+.informes .widget-user .widget-user-header {
+    height: auto;
+    padding: 20px;
+}
+
+.informes .widget-user-header{
+    text-align: center;
+}
+
+.widget-user-2 .widget-user-header {
+    /* padding: 1px; */
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    padding-left: 15px;
+}
+
+.widget-user-2 .widget-user-header .lead {
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.4;
+}
+
+.content{
+    padding-top: 10px;
+  }
+
+/*radios*/
+/*RADIOS*/
+
+.radiomio label {
+  display: inline-block;
+  cursor: pointer;
+  position: relative;
+  padding-left: 25px;
+  margin-right: 15px;
+  font-size: 13px;
+}
+
+.radiomio input[type=radio] {
+  display: none;
+}
+
+.radiomio label:before {
+  content: "";
+  display: inline-block;
+ 
+  width: 19px;
+  height: 18px;
+ 
+  margin-right: 10px;
+  position: absolute;
+  left: 0;
+  bottom: 1px;
+  /*background-color: #aaa;
+  box-shadow: inset 0px 2px 3px 0px rgba(0, 0, 0, .3), 0px 1px 0px 0px rgba(255, 255, 255, .8);*/
+  background:url(../../img/check_radio_sheet.png) -37px top no-repeat;
+}
+
+.radiomio .radio label:before {
+  border-radius: 8px;
+}
+
+.radiomio input[type=radio]:checked + label:before {
+    /*content: "\2022";
+    color: #f3f3f3;
+    font-size: 30px;
+    text-align: center;
+    line-height: 18px;*/
+    background:url(../../img/check_radio_sheet.png) -58px top no-repeat;
+}
+
+/*utilidades*/
+
+.mt-0{
+  margin-top: 0;
+}
+
+.mt-20{
+  margin-top: 20px;
+}
+
+.mt-40{
+  margin-top: 40px;
+}
+
+.mt-2{
+  margin-top: 1.5rem !important;
+}
+
+.mb-0{
+  margin-bottom: 0 !important;
+}
+
+.mb-1{
+  margin-bottom: .5rem !important;
+}
+
+.mb-2{
+  margin-bottom: 1.5rem !important;
+}
+
+.font-weight-bold{
+  font-weight: 700;
+}

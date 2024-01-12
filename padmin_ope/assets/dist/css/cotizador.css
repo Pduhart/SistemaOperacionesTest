@@ -1,0 +1,7 @@
+h3.panel-title{
+	margin-top: 15px;
+}
+
+#res .list-group li.busqueda{
+	cursor: pointer;
+}
