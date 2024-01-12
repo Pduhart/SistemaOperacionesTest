@@ -16,7 +16,7 @@ class conexion
 		$this->servidor = "mysql-db";
 		$this->usuario = "dbuser";
 		$this->pass = "dbpass";
-		$this->base_datos = "ppsavcl_ssoopp_digital";
+		$this->base_datos = "ppsavcl_ssoopp_digital_test";
 		$this->conectar_base_datos();
 	}
 	//-------CONEXION A UNA BASE DE DATOS
